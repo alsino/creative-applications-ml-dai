@@ -33,26 +33,3 @@ We are collecting all links and non-code materials in our [Slack channel](https:
 
 **12:30 - 13:30**  Project work  
 **13:30 - 14:00**  Final presentation (Record on Zoom)  
-
-
-## Get started
-To run each code example, open your terminal (HowTo: [Mac](https://www.idownloadblog.com/2019/04/19/ways-open-terminal-mac/) or [Windows](https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/#targetText=Open%20Command%20Prompt%20from%20the,open%20an%20administrator%20Command%20Prompt.)) and type in the following commands:
-```
-Clone this repository (folder)
-$ git clone https://github.com/alsino/creative-applications-ml.git
-
-Go to the folder you have just downloaded
-$ cd creative-applications-ml
-
-Go to the specific example folder we are working in, i.e. for the first imageClassification example:
-$ cd 1-imageClassification
-
-Start up a simple web server in the current directory (note: you will need to have python installed on your machine)
-$ python -m SimpleHTTPServer     # $ python3 -m http.server (if you are using python 3)
-
-
-
-```
-
-## Install Python
-In case you do not have python installed on your computer, here are the instructions for installation for both [Mac](https://realpython.com/installing-python/#macos-mac-os-x) and [Windows](https://realpython.com/installing-python/#windows).
