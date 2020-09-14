@@ -1,6 +1,6 @@
-# Creative Applications of Machine Learning –  <br/> A Hands-On Workshop for (Absolute) Beginners
+# Creative Applications of Machine Learning –  <br/> A Hands-On Workshop on the Web (for {Absolute} Beginners)
 
-This is a repository with all the code and materials for the DAAD Alumni-Workshop at daadgalerie_studio, 21 October 2019, 10am - 4pm. 
+This is a repository with all the code and materials for the online dai workshop on 17 September 2020, 10am - 2pm. 
 
 This workshops draws heavily on the friendly open source projects [ml5.js](https://ml5js.org/) and [p5.js](https://p5js.org/), which you should check out. 
 
