@@ -23,16 +23,13 @@ We are collecting all links and non-code materials in our [Slack channel](https:
 
 ## Agenda
 
-**10:00 - 10:30**  Welcome and introduction round
-**10:30 - 11:00**  Quick intro to Machine Learning
-
-**10:30 - 11:00**  Runway ML
-**11:00 - 12:00**  Experiments w/ ml5.js
-
-**12:00 - 12:30**  Fast lunch ;)
-
-**12:30 - 13:30**  Project work
-**13:30 - 14:00**  Final presentation (Record on Zoom)
+**10:00 - 10:30**  Welcome and introduction round 
+**10:30 - 11:00**  Quick intro to Machine Learning 
+**10:30 - 11:00**  Runway ML 
+**11:00 - 12:00**  Experiments w/ ml5.js 
+**12:00 - 12:30**  Fast lunch ;) 
+**12:30 - 13:30**  Project work 
+**13:30 - 14:00**  Final presentation (Record on Zoom) 
 
 
 ## Get started
