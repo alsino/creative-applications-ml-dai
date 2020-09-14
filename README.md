@@ -6,37 +6,33 @@ This workshops draws heavily on the friendly open source projects [ml5.js](https
 
 A special and big shoutout to [Yining Shi](https://github.com/yining1023) who developed many of the materials provided here. The curriculum of this workshop was heavily inspired by Yining's introductiory course on [Bots and Machine Learning](https://schoolofma.org/bots) at the School of Machines in the summer of 2019 and her [Machine Learning for the Web's](https://github.com/yining1023/machine-learning-for-the-web) class at ITP in New York.
 
-![Workshop teaser](https://github.com/alsino/creative-applications-ml/blob/master/assets/img/teaser.jpeg)
-
+![Workshop teaser](https://github.com/alsino/creative-applications-ml/blob/master/assets/img/preview.jpeg)
 
 
 ## Housekeping
 
-We are collecting all links and non-code materials on our [EtherPad](https://etherpad.net/p/creative-applications-ml). This way we can exchange materials and links on the fly with everybody without having to set up a chat group or slack.  
+We are collecting all links and non-code materials in our [Slack channel](https://join.slack.com/t/daicreativeml-ryp8974/shared_invite/zt-hddjfwo2-HZNMKyBPQw1TsiPkXV0_wQ). This way we can exchange materials and links on the fly with everybody.
+
 
 ## Topics
-- What is Machine Learning (ML)? 
-- What are some of the most important concepts in ML?
-- What are common applications of machine learning?
-- Why should we engage with creative applications of ML?
-- What are tools we can use in creative ML applications?
+- What is machine learning (ML)?
+- What are some of the core concepts in ML?
+- What are common applications of ML?
+- Why engage with creative applications of ML?
+- What tools can we use in creative ML applications?
 
 ## Agenda
 
-**10am - 12pm: Introduction to Machine Learning**
-- A Quick Introduction to Machine Learning ([Presentation](https://github.com/alsino/creative-applications-ml/blob/master/presentation/intro_compressed.pdf))
-- Hands-on 1: A very basic introduction to JavaScript and p5.js
+10:00 - 10:30  Welcome and introduction round
+10:30 - 11:00  Quick intro to Machine Learning
 
-**12pm - 1pm: Lunch Break**
+10:30 - 11:00  Runway ML
+11:00 - 12:00  Experiments w/ ml5.js
 
-**1pm - 4pm: Machine Learning with ml5.js and Runway**
-- Hands-on 2: Image classification with MobileNet
-- Hands-on 3: Pose estimation (PoseNet) with ml5.js
-- Hands-on 4: Generate images from text (AttnGan-Runway)
-- Next steps: Where to go from here? (Resources)
-- Feedback
+12:00 - 12:30  Fast lunch ;)
 
-
+12:30 - 13:30  Project work
+13:30 - 14:00  Final presentation (Record on Zoom)
 
 
 ## Get started
