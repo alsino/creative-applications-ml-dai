@@ -1,4 +1,5 @@
-# Creative Applications of Machine Learning –  <br/> A Hands-On Workshop on the Web <br/> (for {Absolute} Beginners)
+# Creative Applications of Machine Learning – <br/>
+## A Hands-On Workshop on the Web (for {Absolute} Beginners)
 
 This is a repository with all the code and materials for the online dai workshop on 17 September 2020, 10am - 2pm. 
 
