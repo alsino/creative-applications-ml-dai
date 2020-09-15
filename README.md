@@ -37,4 +37,7 @@ We are collecting all links and non-code materials in our [Slack channel](https:
 
 ## ml5.js Examples
 - [Image Classification](https://codesandbox.io/s/1-imageclassification-zmey4)
-- [Image Classification Video](https://codesandbox.io/s/1-imageclassification-zmey4)
+- [Image Classification Video](https://codesandbox.io/s/2-imageclassificationvideo-rp0eq)
+- [Object Detectioon YOLO](https://codesandbox.io/s/3-imagedetectionyolovideo-z0x8x)
+- [Pose Estimation](https://codesandbox.io/s/4-posenet-wkqr1)
+- [Pose Estimation Advanced](https://codesandbox.io/s/5-posenet-advanced-1l6xc)
