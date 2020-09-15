@@ -34,3 +34,7 @@ We are collecting all links and non-code materials in our [Slack channel](https:
 
 **12:30 - 13:30**  Project work  
 **13:30 - 14:00**  Final presentation (Record on Zoom)  
+
+## ml5.js Examples
+- [Image Classification](https://codesandbox.io/s/1-imageclassification-zmey4)
+- [Image Classification Video](https://codesandbox.io/s/1-imageclassification-zmey4)
